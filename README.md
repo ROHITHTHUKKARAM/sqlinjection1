@@ -27,11 +27,6 @@ SQL Injection is a sort of infusion assault that makes it conceivable to execute
 Use the above ip address to access the apache webserver of Metasploitable2 from kali linux. In Kali Linux use the ip address in a web browser.
 Select Multidae from the menu listed as shown above. You will get the page as displayed below:
 
-Click on the menu Login/Register and register for an account
-<img width="1919" height="871" alt="437692090-34234ec5-55eb-4f58-b60d-bc8482009998" src="https://github.com/user-attachments/assets/23e591cf-89e1-492d-9cd2-b1e9900436f2" />
-
-Click on the link “Please register here”
-<img width="1918" height="868" alt="437692102-57157003-af0a-46f9-a49d-061d4ca8c946" src="https://github.com/user-attachments/assets/794a39e8-def3-4d9e-84ee-f7dd73cb478e" />
 
 The login structure we will use in our examples is straightforward. It contains two input fields (username and password), which are both vulnerable. The back-end content creates a query to approve the username and secret key given by the client. Here is an outline of the page rationale:
 <img width="1919" height="848" alt="437692123-923055d7-a6a5-4c40-9530-12dcb9699afb" src="https://github.com/user-attachments/assets/f9b38b7e-3dc9-4acd-a618-a7ad9f61d0f0" />
